@@ -2,7 +2,7 @@ from operator import index
 import streamlit as st
 import requests
 from datetime import datetime
-import folium
+#import folium
 import pandas as pd
 
 '''
